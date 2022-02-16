@@ -74,6 +74,12 @@ MicroStrategy transforms organizations into intelligent enterprises through data
 - Good communication skills, strong verbal and written communication skills in English.
 - Team oriented individual.
 
-## Contact me to refer a position
+## Contact me to refer a position (内推通道)
 write to me a letter with your latest resume, to **seuxihuan@126.com**
+
+
+[MicroStrategy Home Page] https://www.microstrategy.com/en
+
+
+
 
