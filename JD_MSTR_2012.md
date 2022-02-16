@@ -61,5 +61,5 @@ MicroStrategy transforms organizations into intelligent enterprises through data
 - Team oriented individual.
 
 ## Contact me to refer a position
-write to me a letter with your latest resume, to ** seuxihuan@126.com **
+write to me a letter with your latest resume, to **seuxihuan@126.com**
 
