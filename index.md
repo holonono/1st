@@ -1,6 +1,6 @@
 # We Are Hiring
 MicroStrategy
-## Who We are
+## Who We Are
 微策略MicroStrategy是全球最大企业级商务智能及分析平台供应商 (NASDAQ : MSTR)。自1989年创建之日起，微策略一直是全球商务智能软件的领导者。
 公司的软件产品广泛应用于海量数据的分析与处理，成为客户商业活动、经营运作、计划决策中不可缺少的一部分，客户遍及财富500强以及许多政府部门和教育机构。
 微策略总部位于美国首都华盛顿毗邻的Tysons Corner VA。目前拥有超过2000名员工，分布在全球20多个不同的国家和地区。
@@ -74,8 +74,8 @@ MicroStrategy transforms organizations into intelligent enterprises through data
 - Good communication skills, strong verbal and written communication skills in English.
 - Team oriented individual.
 
-## Contact me to refer a position (内推通道)
-write to me a letter with your latest resume, to **seuxihuan@126.com**
+## Contact me for a position (内推通道)
+A letter with your latest resume to **seuxihuan@126.com**
 
 
 [MicroStrategy Home Page] https://www.microstrategy.com/en
